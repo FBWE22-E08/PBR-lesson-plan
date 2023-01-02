@@ -3,6 +3,8 @@
 ### Morning 09:00 - 12:00
 
 - Recap functions 
+- Array methods
+- Solutions for yesterday's assignments
 
 ### Afternoon 13:00 - 16:15
 
