@@ -8,6 +8,7 @@
 ### Afternoon 13:00 - 16:15
 
 - [PB-classes-onlineShop](https://github.com/DigitalCareerInstitute/PB-classes-onlineShop)
+- [MessageFeed](https://github.com/FBWE22-E08/assignment-classes)
 
 ### Resources
 
