@@ -7,7 +7,7 @@
 
 ### Afternoon 13:00 - 16:15
 
-- [Review assignment](https://github.com/DigitalCareerInstitute/PB-classes-onlineShop](https://github.com/FBWE22-E08/PB-Review-Exc-Pt1)
+- [Review assignment](https://github.com/FBWE22-E08/PB-Review-Exc-Pt1)
 
 ### Resources
 
