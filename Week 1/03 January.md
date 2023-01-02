@@ -3,7 +3,6 @@
 ### Morning 09:00 - 12:00
 
 - Recap functions 
-- Recap classes & object oriented programming
 
 ### Afternoon 13:00 - 16:15
 
