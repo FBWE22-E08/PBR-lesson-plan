@@ -7,7 +7,7 @@
 
 ### Afternoon 13:00 - 16:15
 
-- [PB-classes-onlineShop](https://github.com/DigitalCareerInstitute/PB-classes-onlineShop)
+- [School App](https://github.com/DigitalCareerInstitute/PB-Function2-School-App)
 
 ### Resources
 
