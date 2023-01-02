@@ -2,12 +2,12 @@
 
 ### Morning 09:00 - 12:00
 
-- Introduction 
+- Recap functions 
 - Recap classes & object oriented programming
 
 ### Afternoon 13:00 - 16:15
 
-- [PB-classes-onlineShop](https://github.com/DigitalCareerInstitute/PB-classes-onlineShop)
+- [Review assignment]([https://github.com/DigitalCareerInstitute/PB-classes-onlineShop](https://github.com/FBWE22-E08/PB-Review-Exc-Pt1)
 
 ### Resources
 
