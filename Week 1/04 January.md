@@ -2,7 +2,8 @@
 
 ### Morning 09:00 - 12:00
 
-- recaps
+- Recap functions 
+
 
 ### Afternoon 13:00 - 16:15
 
