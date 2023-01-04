@@ -12,6 +12,9 @@
 
 ### Resources
 
-
+- [strings methods](https://www.w3schools.com/js/js_string_methods.asp)
+- [codewars](https://www.codewars.com/)
 
 ### Recording
+
+-
