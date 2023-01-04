@@ -2,12 +2,13 @@
 
 ### Morning 09:00 - 12:00
 
-- Recap functions 
-
+- strings methods
+- review challenges solutions
+- codewars
 
 ### Afternoon 13:00 - 16:15
 
-- [School App]()
+- [School App](https://classroom.github.com/a/m8dzNKut)
 
 ### Resources
 
