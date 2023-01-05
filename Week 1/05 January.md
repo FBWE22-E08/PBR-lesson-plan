@@ -19,3 +19,7 @@
 
 
 ### Recording
+
+[Link Recording](https://us02web.zoom.us/rec/share/yD9xN-i4A3QJdR7n6qUu-biysX5a5jdYs3TsO0AHYt5AwUTq3_mkuRkVwyzavscv.LWNK9G5vQsp6oQ8l?startTime=1672906680000)
+
+Passcode: %aE7nngP
