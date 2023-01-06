@@ -12,6 +12,8 @@
 ### Afternoon 13:00 - 16:15
 
 - [Inheritance assignment]()
+- [Inheritance assignment solution](https://github.com/FBWE22-E08/PBR-Lessons/tree/main/05.01%20recap%20classes%20inheritance%20%26%20recursion%20%26%20closures/classes-inheritance-assignment-solution)
+
 
 ### Resources
 
