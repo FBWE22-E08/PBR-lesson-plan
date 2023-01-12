@@ -6,7 +6,7 @@
 
 ### Afternoon 13:00 - 16:15
 
-- Assessment
+- Assessment II
 
 ### Resources
 
