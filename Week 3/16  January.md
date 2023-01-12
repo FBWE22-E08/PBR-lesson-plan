@@ -1,12 +1,11 @@
-# Tuesday 10th January
+# Monday 16th January
 
 ### Morning 09:00 - 12:00
  
-- Project
+- Presentations Project Week
 
 ### Afternoon 13:00 - 16:15
 
-- Project
 
 ### Resources
 

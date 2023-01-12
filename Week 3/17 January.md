@@ -1,12 +1,12 @@
-# Tuesday 10th January
+# Tuesday 17th January
 
 ### Morning 09:00 - 12:00
  
-- Project
+- recap Assessment
 
 ### Afternoon 13:00 - 16:15
 
-- Project
+- Assessment
 
 ### Resources
 
